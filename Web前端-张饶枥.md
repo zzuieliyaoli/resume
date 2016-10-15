@@ -12,10 +12,11 @@
 
 ## 技能列表
 - 熟悉HTML&CSS，理解盒子模型、熟悉选择器优先级、清除浮动、BFC、Flexbox实现全端响应式布局、移动端开发、position、Sass、模板引擎等。
-- 熟悉Javascript，熟悉基本ES6语法，深刻理解原型继承、异步调用、函数式编程、XMLHttpRequest、上下文、闭包、模块化等语言特性。
+- 熟悉JavaScript，熟悉基本ES6语法，深刻理解原型继承、异步调用、函数式编程、XMLHttpRequest、上下文、闭包、模块化等语言特性。
 - 后台相关：设计并实现RESTful API，实现常用SQL查询，设计服务器缓存，解决跨域问题等。
 - 熟悉HTTP协议，如三次握手、响应码、请求头、缓存设置等。
 - 工程工具使用，如Webpack、Babel、Git等。
+- 强大信息搜索能力, 熟练使用Google、StackOverflow、知网、Web of Science等工具。
 - 其他：Web安全、服务器维护、CDN、Linux、Node、VIM
 
 
